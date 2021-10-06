@@ -11,7 +11,6 @@
 ------------
 ##### Instalação
 
-
 - Primeiro instale as dependências, entrando na pasta do projeto e digitando o seguinte comando:
 ```
 pip3 install -r requirements.txt
